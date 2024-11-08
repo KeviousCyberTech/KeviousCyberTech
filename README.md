@@ -1,6 +1,12 @@
 # Hello, I'm Kevious!
 <a href="https://www.linkedin.com/in/kkingjr/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+## Certifications
+<div>
+<a href="https://www.credly.com/badges/5c0fd349-6da6-440b-86a1-7eaca8847f3b/public_url"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.credly.com/badges/871f0769-d5a0-4d84-9da5-553ef50dc06a/public_url"><img src="https://img.shields.io/badge/-Data%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
+
 ## Objective
 
 My journey in computer science has fueled my growing passion for cybersecurity, and I am now excited to transition into this field. I am eager to apply my skills and knowledge to entry-level cybersecurity roles, where I can contribute to protecting systems, networks and leverage my technical expertise while continuing to grow and learn in this dynamic field!
@@ -36,12 +42,6 @@ My journey in computer science has fueled my growing passion for cybersecurity, 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-</div>
-
-## Certifications
-<div>
-<a href="https://www.credly.com/badges/5c0fd349-6da6-440b-86a1-7eaca8847f3b/public_url"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<a href="https://www.credly.com/badges/871f0769-d5a0-4d84-9da5-553ef50dc06a/public_url"><img src="https://img.shields.io/badge/-Data%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
