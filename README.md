@@ -16,7 +16,7 @@ My journey in computer science has fueled my growing passion for cybersecurity, 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Intercept HTTP traffic, Modifying requests & Setting target scope  using Burpsuite          | <a href="https://github.com/KeviousCyberTech/Vulnerability-scan-using-Burp-Suite-/blob/main/README.md">Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/KeviousCyberTech/Capture-And-Analyze-Network-Traffic-Packets-Using-Wireshark/blob/main/README.md">Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
