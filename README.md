@@ -17,9 +17,7 @@ My journey in computer science has fueled my growing passion for cybersecurity, 
 |-----------------------------------------------|----------------------------|
 | Intercept HTTP traffic, Modifying requests & Setting target scope using Burpsuite          | <a href="https://github.com/KeviousCyberTech/Vulnerability-scan-using-Burp-Suite-/blob/main/README.md">Lab</a>|
 | Network Traffic Monitoring and Analysis using Wireshark | <a href="https://github.com/KeviousCyberTech/Capture-And-Analyze-Network-Traffic-Packets-Using-Wireshark/blob/main/README.md">Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 
@@ -27,12 +25,6 @@ My journey in computer science has fueled my growing passion for cybersecurity, 
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp%20Suite-FF6F00?&style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### SIEM Tools
